@@ -51,6 +51,8 @@ Other keys used to sign some previous releases:
 [`7937DFD2AB06298B2293C3187D33FF9D0246406D`](https://raw.githubusercontent.com/nodejs/release-keys/HEAD/keys/7937DFD2AB06298B2293C3187D33FF9D0246406D.asc)
 * **Juan José Arboleda** &lt;soyjuanarbol@gmail.com&gt;
 [`61FC681DFB92A079F1685E77973F295594EC4689`](https://raw.githubusercontent.com/nodejs/release-keys/HEAD/keys/61FC681DFB92A079F1685E77973F295594EC4689.asc)
+* **Ulises Gascón** &lt;ulisesgascongonzalez@gmail.com&gt;
+[`A363A499291CBBC940DD62E41F10027AF002F8B0`](https://raw.githubusercontent.com/nodejs/release-keys/HEAD/keys/A363A499291CBBC940DD62E41F10027AF002F8B0.asc)
 
 
 ## Verifying Release Packages
